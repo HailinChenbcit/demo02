@@ -1,1 +1,2 @@
 hello from hailin
+goodbye from hailin
